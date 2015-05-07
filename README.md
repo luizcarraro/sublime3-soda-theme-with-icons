@@ -30,4 +30,4 @@ While inside the `Packages` directory, navigate into the `User` directory and cl
 Soda Theme is licensed under the [Creative Commons Attribution-ShareAlike 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/).
 
 * Theme based on Soda Theme by [Ian Hill](https://github.com/buymeasoda)
-* Icons ported from the [Seti Theme](https://github.com/ctf0/Seti_ST3#seti).
+* File type icons ported from the [Seti Theme](https://github.com/ctf0/Seti_ST3#seti).
