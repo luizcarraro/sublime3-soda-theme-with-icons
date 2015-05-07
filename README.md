@@ -24,25 +24,6 @@ While inside the `Packages` directory, navigate into the `User` directory and cl
 
     git clone git@github.com:rebelliard/sublime3-soda-theme-with-icons.git "Theme - Soda"
 
-## Activating the theme
-
-To configure Sublime Text to use the theme, follow the instructions below for your specific version.
-
-### Sublime Text 3
-
-* Open your User Settings Preferences file `Sublime Text -> Preferences -> Settings - User`
-* Add (or update) your theme entry to be `"theme": "Soda Light 3.sublime-theme"` or `"theme": "Soda Dark 3.sublime-theme"`
-
-**Example Sublime Text 3 User Settings file**
-
-    [
-        {
-            "theme": "Soda Light 3.sublime-theme"
-        }
-    ]
-
-## [Additional Features](https://github.com/buymeasoda/soda-theme#additional-features)
-
 
 ## License
 
